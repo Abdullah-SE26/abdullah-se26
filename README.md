@@ -98,22 +98,3 @@ Exploratory analysis of customer call data to identify patterns, trends, and ope
 * Data visualization and trend identification
 
 ---
-
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abdullah-SE26\&theme=gruvbox_light\&hide_border=true\&include_all_commits=false\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-SE26\&theme=gruvbox_light\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-SE26\&theme=gruvbox_light\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Abdullah-SE26\&theme=gruvbox_light\&no-frame=true\&no-bg=true\&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Abdullah-SE26\&icon=2\&color=2)](https://visitcount.itsvg.in)
